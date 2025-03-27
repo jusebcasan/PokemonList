@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fontLogin">#52A7ED</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="whiteLight">#DED7AD</color>
+    <color name="backGroundButton">#3236E6</color>
+
+</resources>

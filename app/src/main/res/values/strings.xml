@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PokemonList</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="btLogin">Login</string>
+    <string name="btRegister">Register</string>
+    <string name="TermsAndConditions">He leido y acepto los</string>
+    <string name="TermsAndConditions2"> términos y Condiciones</string>
+    <string name="TitleTermsAndConditions">Terminos y Condiciones</string>
+    <string name="TextTermsAndConditions">Bienvenido/a a Pokemon List (la "Aplicación"). Al utilizar esta Aplicación, aceptas los siguientes términos y condiciones. Si no estás de acuerdo con alguno de ellos, por favor, no utilices esta Aplicación.
+1. Uso de la Aplicación
+•	La Aplicación tiene como único propósito proporcionar información sobre Pokémon.
+•	Esta Aplicación no está afiliada, patrocinada ni respaldada por Nintendo, Game Freak o The Pokémon Company. Todos los derechos relacionados con Pokémon son propiedad de sus respectivos dueños.
+2. Licencia de Uso
+•	Se te otorga una licencia limitada, no exclusiva, intransferible y revocable para usar esta Aplicación únicamente para uso personal y no comercial.
+•	No puedes copiar, modificar, distribuir, vender o explotar de cualquier forma el contenido de la Aplicación.
+3. Propiedad Intelectual
+•	Todos los nombres, imágenes, descripciones y cualquier otro material relacionado con Pokémon son propiedad de sus respectivos titulares de derechos de autor.
+•	El diseño y código de la Aplicación son propiedad exclusiva de Juan Sebastian Cardozo Sanchez.
+4. Limitación de Responsabilidad
+•	La Aplicación se proporciona "tal cual" y no garantizamos que esté libre de errores o interrupciones.
+•	No somos responsables de ningún daño, pérdida o problema derivado del uso de esta Aplicación.
+5. Política de Privacidad
+•	La Aplicación no recopila, almacena ni comparte información personal de los usuarios.
+•	Si utilizas servicios de terceros a través de la Aplicación, como APIs externas, dichos servicios tendrán sus propias políticas de privacidad.
+6. Cambios en los Términos
+•	Nos reservamos el derecho de modificar estos términos y condiciones en cualquier momento. Las modificaciones serán efectivas a partir de su publicación en esta Aplicación.
+•	Es tu responsabilidad revisar estos términos periódicamente.
+7. Contacto
+Si tienes preguntas o inquietudes sobre estos términos y condiciones, puedes contactarnos en: correoMio@gmail.com
+</string>
+
+    <string name="default_web_client_id">1:739568160781:android:9fdbfe0d1d335f5e9d0544</string>
+    <string name="facebook_app_id">1636385666997339</string>
+    <string name="fb_login_protocol_scheme">fb1636385666997339</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>

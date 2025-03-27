@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739568160781",
+    "project_id": "fir-tutorial-f27b0",
+    "storage_bucket": "fir-tutorial-f27b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739568160781:android:9fdbfe0d1d335f5e9d0544",
+        "android_client_info": {
+          "package_name": "com.example.pokemonlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739568160781-0jrocf41a5fjkdg2fqgtsg64tdt8t9el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokemonlist",
+            "certificate_hash": "ba3683858897593c792fac4f1e3cbde0881d45c7"
+          }
+        },
+        {
+          "client_id": "739568160781-kkaofj6sdvnks8iij76b39r8jvmths48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPFJw73z5oKTQ1xayCWuS30CvWLXdDDI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739568160781-kkaofj6sdvnks8iij76b39r8jvmths48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

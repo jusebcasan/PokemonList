@@ -1,0 +1,50 @@
+[versions]
+agp = "8.5.2"
+kotlin = "1.9.24"
+coreKtx = "1.15.0"
+junit = "4.13.2"
+junitVersion = "1.2.1"
+espressoCore = "3.6.1"
+appcompat = "1.7.0"
+material = "1.12.0"
+activity = "1.9.3"
+constraintlayout = "2.2.0"
+firebase-bom = "33.7.0"
+version = "4.4.2"
+analytics-Version = "22.1.2"
+auth-version = "23.1.0"
+auth-service-version = "21.3.0"
+auth-facebook-version = "17.0.2"
+retrofit-version = "2.11.0"
+retrofitgson-version = "2.11.0"
+lifecycle = "2.8.7"
+version-image= "4.16.0"
+version-fragment = "1.8.5"
+
+[libraries]
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+firebase = { group = "com.google.firebase", name = "firebase-bom", version.ref = "firebase-bom" }
+analytics-firebase = { group = "com.google.firebase", name = "firebase-analytics", version.ref = "analytics-Version" }
+auth-firebase = { group = "com.google.firebase", name = "firebase-auth", version.ref = "auth-version" }
+auth-google = { group = "com.google.android.gms", name = "play-services-auth", version.ref = "auth-service-version" }
+auth-facebook = { group = "com.facebook.android", name = "facebook-android-sdk", version.ref = "auth-facebook-version" }
+retrofit2 = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit-version" }
+retrofit2-gson = { group = "com.squareup.retrofit2", name = "converter-gson", version.ref = "retrofitgson-version" }
+lifecycle-viewmodel-ktx = { group = "androidx.lifecycle", name = "lifecycle-viewmodel-ktx", version.ref = "lifecycle" }
+lifecycle-livedata-ktx = { group = "androidx.lifecycle", name = "lifecycle-livedata-ktx", version.ref = "lifecycle" }
+image-glide = { group = "com.github.bumptech.glide", name = "glide", version.ref = "version-image" }
+fragment = { group = "androidx.fragment", name = "fragment-ktx", version.ref = "version-fragment" }
+
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+google-gms-google-services = { id = "com.google.gms.google-services", version.ref = "version" }
+
